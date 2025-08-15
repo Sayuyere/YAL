@@ -1,3 +1,3 @@
-module github.com/yourusername/yal
+module github.com/sayuyere/yal
 
 go 1.21

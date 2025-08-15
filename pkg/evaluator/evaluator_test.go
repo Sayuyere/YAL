@@ -3,7 +3,7 @@ package evaluator
 import (
 	"testing"
 
-	"github.com/yourusername/yal/pkg/ast"
+	"github.com/sayuyere/yal/pkg/ast"
 )
 
 func TestEval(t *testing.T) {
